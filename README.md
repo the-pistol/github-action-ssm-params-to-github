@@ -1,8 +1,7 @@
-
 > :warning: **This is a *public* repository** :warning:
 
-Custom Github Actions must be in a public repository (Except when using Github Enterprise which allows private repositories)
+### DEPRECATED
 
-### Github Action - SSM Params to Github
+moved to https://github.com/zitcha
 
-Read from AWS SSM Params and import the values into Github Action environmental variables (Build time variables)
+delete this once all references to this repo are removed.
